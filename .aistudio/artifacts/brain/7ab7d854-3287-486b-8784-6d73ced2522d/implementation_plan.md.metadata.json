@@ -1,6 +1,0 @@
-{
-  "summary":  "Überarbeiteter Architektur- und Umsetzungsplan für SidelineOS-core v0.2.0 inkl. vollständigem Abgleich aller offenen GitHub-Issues (#21–#26): zwingende Club-Hierarchie mit Rollenkaskade, getrennte Admin-Ebenen (/admin/system vs. /admin/club), Team-Archivierung im Read-Only-Modus, getrennte Club-/Team-Mitgliedschaften, geteilter Vereins-Speicherpool (90 %/100 %) mit Quota-API sowie Multi-Storage-Routing.",
-  "updatedAt":  "2026-11-28T16:28:52.331056186Z",
-  "requestFeedback":  true,
-  "userFacing":  true
-}
